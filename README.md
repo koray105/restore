@@ -1,7 +1,5 @@
 # ReStore - E-Commerce Platform
 
-[Türkçe okumak için buraya tıklayın (README.tr.md)](./README.tr.md)
-
 A modern, full-stack e-commerce application built with **Next.js 16**, **Supabase**, and **Tailwind CSS**. Designed with a premium feel and focus on user experience.
 
 ---
